@@ -1,0 +1,21 @@
+.song-card{
+    display: flex;
+    gap: 10px;
+    flex-direction: column;
+    align-items: center;
+    height: 530px;
+    border: 1px solid black;
+}
+img{
+    width: 350px;
+    height: 350px;
+}
+.song-duration{
+    display: flex;
+    gap: 15px;
+}
+.buttons{
+    display: flex;
+    gap: 30px;
+    font-size: 30px;
+}
